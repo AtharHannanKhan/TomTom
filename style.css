@@ -1,0 +1,22 @@
+#About{
+    
+    margin-top: 20px;
+}
+#image1{
+    
+    border-radius: 50px;
+    float: left;
+    
+}
+#image2{
+    
+    border-radius: 50px;
+    float: right;
+}
+#footer{
+    background-color: black; 
+    color: grey;
+    font-size: 15px;
+    padding: 10px 0;
+    letter-spacing: 5px;
+}
